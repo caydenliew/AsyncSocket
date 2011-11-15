@@ -1,0 +1,88 @@
+// !$*UTF8*$!
+{
+	FD8FF187147280A2005EAD9F /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = FD935A511472871400FC279A /* SocketClient */;
+		activeTarget = FD8FF18F147280A3005EAD9F /* SocketClient */;
+		codeSenseManager = FD935A6F1472871700FC279A /* Code sense */;
+		executables = (
+			FD935A511472871400FC279A /* SocketClient */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					341,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 343050004;
+			PBXWorkspaceStateSaveDate = 343050004;
+		};
+		sourceControlManager = FD935A6E1472871700FC279A /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	FD8FF18F147280A3005EAD9F /* SocketClient */ = {
+		activeExec = 0;
+		executables = (
+			FD935A511472871400FC279A /* SocketClient */,
+		);
+	};
+	FD935A511472871400FC279A /* SocketClient */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = SocketClient;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	FD935A6E1472871700FC279A /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	FD935A6F1472871700FC279A /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+}
